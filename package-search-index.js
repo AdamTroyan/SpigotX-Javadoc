@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.adam"},{"l":"dev.adam.commands"},{"l":"dev.adam.commands.annotations"},{"l":"dev.adam.events"},{"l":"dev.adam.events.context"},{"l":"dev.adam.gui"},{"l":"dev.adam.gui.context"},{"l":"dev.adam.placeholders"},{"l":"dev.adam.scheduler"},{"l":"dev.adam.utils"}];updateSearchResults();

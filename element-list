@@ -1,0 +1,10 @@
+dev.adam
+dev.adam.commands
+dev.adam.commands.annotations
+dev.adam.events
+dev.adam.events.context
+dev.adam.gui
+dev.adam.gui.context
+dev.adam.placeholders
+dev.adam.scheduler
+dev.adam.utils
